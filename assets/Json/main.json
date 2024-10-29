@@ -1,0 +1,2711 @@
+{
+    "VishnuPurana": {
+        "title": {
+            "Hindi": "विष्णु पुराण",
+            "English": "Vishnu Purana",
+            "Gujarati": "વિષ્ણુ પુરાણ"
+        },
+        "shlokas": [
+            {
+                "verse": 1,
+                "sanskrit": "नमः पुराणानां वासुदेवाय च।",
+                "translation": {
+                    "Hindi": "पुराणों के देवता वासुदेव को नमस्कार।",
+                    "English": "Salutations to Vāsudeva, the deity of the Puranas.",
+                    "Gujarati": "પુરાણોના દેવ વાસુદેવને નમસ્કાર."
+                }
+            },
+            {
+                "verse": 2,
+                "sanskrit": "कृष्णं वन्दे जगतां पातं।",
+                "translation": {
+                    "Hindi": "मैं जगत के पालनकर्ता कृष्ण की वंदना करता हूँ।",
+                    "English": "I bow to Krishna, the sustainer of the universe.",
+                    "Gujarati": "હું જગતના પાળક કૃષ્ણને વંદન કરું છું."
+                }
+            },
+            {
+                "verse": 3,
+                "sanskrit": "सर्वेन्द्रियाणां चित्तं हि।",
+                "translation": {
+                    "Hindi": "सभी इन्द्रियों का चित्त है।",
+                    "English": "The mind is the essence of all senses.",
+                    "Gujarati": "બધા ઇન્દ્રિયોના ચિત્તનું સ્વરૂપ છે."
+                }
+            },
+            {
+                "verse": 4,
+                "sanskrit": "धर्मो रक्षति रक्षितः।",
+                "translation": {
+                    "Hindi": "जो धर्म की रक्षा करता है, धर्म उसकी रक्षा करता है।",
+                    "English": "Dharma protects those who protect it.",
+                    "Gujarati": "ધર્મ જેની રક્ષા કરે છે તેનાથી રક્ષણ કરે છે."
+                }
+            },
+            {
+                "verse": 5,
+                "sanskrit": "सत्यं वद धर्मं चर।",
+                "translation": {
+                    "Hindi": "सत्य बोलो, धर्म का पालन करो।",
+                    "English": "Speak the truth, follow righteousness.",
+                    "Gujarati": "સત્ય બોલો, ધર્મનું પાલન કરો."
+                }
+            },
+            {
+                "verse": 6,
+                "sanskrit": "यत्र योगेश्वरः कृष्णो, यत्र पार्थो धनुर्धरः।",
+                "translation": {
+                    "Hindi": "जहाँ योगेश्वर कृष्ण हैं, वहाँ अर्जुन धनुर्धर हैं।",
+                    "English": "Wherever there is Krishna, the master of yoga, there is Arjuna, the archer.",
+                    "Gujarati": "જ્યાં યોગેશ્વર કૃષ્ણ છે, ત્યાં અર્જુન ધનુર્ધર છે."
+                }
+            },
+            {
+                "verse": 7,
+                "sanskrit": "अहं ब्रह्मास्मि।",
+                "translation": {
+                    "Hindi": "मैं ब्रह्म हूँ।",
+                    "English": "I am Brahman.",
+                    "Gujarati": "હું બ્રહ્મ છું."
+                }
+            },
+            {
+                "verse": 8,
+                "sanskrit": "वेदोऽहमस्मि।",
+                "translation": {
+                    "Hindi": "मैं वेद हूँ।",
+                    "English": "I am the Vedas.",
+                    "Gujarati": "હું વેદ છું."
+                }
+            },
+            {
+                "verse": 9,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 10,
+                "sanskrit": "सर्वधर्मान्परित्यज्य।",
+                "translation": {
+                    "Hindi": "सभी धर्मों को छोड़कर।",
+                    "English": "Abandon all religions.",
+                    "Gujarati": "સર્વ ધર્મોને છોડી દો."
+                }
+            },
+            {
+                "verse": 11,
+                "sanskrit": "मृत्योर्मा अमृतं गमय।",
+                "translation": {
+                    "Hindi": "मृत्यु से अमरता की ओर ले चलो।",
+                    "English": "Lead me from death to immortality.",
+                    "Gujarati": "મૃત્યુમાંથી અમરતાની તરફ લઈ જાવ."
+                }
+            },
+            {
+                "verse": 12,
+                "sanskrit": "तत्त्वमसि।",
+                "translation": {
+                    "Hindi": "तू वह है।",
+                    "English": "Thou art that.",
+                    "Gujarati": "તુ તે છે."
+                }
+            },
+            {
+                "verse": 13,
+                "sanskrit": "आत्मनं विद्धि।",
+                "translation": {
+                    "Hindi": "अपने आत्मा को जानो।",
+                    "English": "Know thyself.",
+                    "Gujarati": "તમારા આત્માને ઓળખો."
+                }
+            },
+            {
+                "verse": 14,
+                "sanskrit": "योगस्थः कुरु कर्माणि।",
+                "translation": {
+                    "Hindi": "योग में स्थित होकर कर्म करो।",
+                    "English": "Perform your duties while being steadfast in yoga.",
+                    "Gujarati": "યોગમાં સ્થિત રહીને કર્મ કરો."
+                }
+            },
+            {
+                "verse": 15,
+                "sanskrit": "सर्वं खल्विदं ब्रह्म।",
+                "translation": {
+                    "Hindi": "सभी कुछ ब्रह्म है।",
+                    "English": "Everything is indeed Brahman.",
+                    "Gujarati": "બધું જ બ્રહ્મ છે."
+                }
+            },
+            {
+                "verse": 16,
+                "sanskrit": "वृत्तिः सदा समर्पित।",
+                "translation": {
+                    "Hindi": "व्यवसाय हमेशा समर्पित।",
+                    "English": "Occupation is always dedicated.",
+                    "Gujarati": "વ્યવસાય હંમેશા સમર્પિત છે."
+                }
+            },
+            {
+                "verse": 17,
+                "sanskrit": "धर्म एव हतो हन्ति।",
+                "translation": {
+                    "Hindi": "धर्म का पालन न करने पर उसका नाश होता है।",
+                    "English": "Neglecting righteousness leads to its destruction.",
+                    "Gujarati": "ધર્મનું પાલન ન કરવાથી તેનો નાશ થાય છે."
+                }
+            },
+            {
+                "verse": 18,
+                "sanskrit": "सत्यं ज्ञानमनन्तं ब्रह्म।",
+                "translation": {
+                    "Hindi": "सत्य, ज्ञान और अनंत ही ब्रह्म है।",
+                    "English": "Truth, knowledge, and infinity is Brahman.",
+                    "Gujarati": "સત્ય, જ્ઞાન અને અનંત બ્રહ્મ છે."
+                }
+            },
+            {
+                "verse": 19,
+                "sanskrit": "सर्वधर्मान्परित्यज्य।",
+                "translation": {
+                    "Hindi": "सभी धर्मों को छोड़कर।",
+                    "English": "Abandon all religions.",
+                    "Gujarati": "સર્વ ધર્મોને છોડી દો."
+                }
+            },
+            {
+                "verse": 20,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 21,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 22,
+                "sanskrit": "सत्यं ज्ञानं अद्वितीयम्।",
+                "translation": {
+                    "Hindi": "सत्य और ज्ञान अद्वितीय हैं।",
+                    "English": "Truth and knowledge are non-dual.",
+                    "Gujarati": "સત્ય અને જ્ઞાન અદ્વિતीय છે."
+                }
+            },
+            {
+                "verse": 23,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 24,
+                "sanskrit": "वेदोऽहमस्मि।",
+                "translation": {
+                    "Hindi": "मैं वेद हूँ।",
+                    "English": "I am the Vedas.",
+                    "Gujarati": "હું વેદ છું."
+                }
+            },
+            {
+                "verse": 25,
+                "sanskrit": "धर्मो रक्षति रक्षितः।",
+                "translation": {
+                    "Hindi": "धर्म की रक्षा करने पर वह भी रक्षा करता है।",
+                    "English": "Righteousness protects when it is protected.",
+                    "Gujarati": "ધર્મ જેણે રક્ષા કરે છે તેની રક્ષા કરે છે."
+                }
+            },
+            {
+                "verse": 26,
+                "sanskrit": "अहंकारः नष्टः।",
+                "translation": {
+                    "Hindi": "अहंकार नष्ट हो गया।",
+                    "English": "Ego is destroyed.",
+                    "Gujarati": "અહંકાર નષ્ટ થઈ ગયો."
+                }
+            },
+            {
+                "verse": 27,
+                "sanskrit": "शांति सर्वत्र।",
+                "translation": {
+                    "Hindi": "शांति हर जगह है।",
+                    "English": "Peace is everywhere.",
+                    "Gujarati": "શાંતિ સર્વત્ર છે."
+                }
+            },
+            {
+                "verse": 28,
+                "sanskrit": "प्रेमः सर्वोत्तमः।",
+                "translation": {
+                    "Hindi": "प्रेम सर्वोत्तम है।",
+                    "English": "Love is the best.",
+                    "Gujarati": "પ્રેમ શ્રેષ્ઠ છે."
+                }
+            },
+            {
+                "verse": 29,
+                "sanskrit": "सर्वेभ्यः उपकारः।",
+                "translation": {
+                    "Hindi": "सभी की सहायता।",
+                    "English": "Help for all.",
+                    "Gujarati": "બધાને મદદ."
+                }
+            },
+            {
+                "verse": 30,
+                "sanskrit": "सर्वेषां सुखं।",
+                "translation": {
+                    "Hindi": "सभी के लिए सुख।",
+                    "English": "Happiness for everyone.",
+                    "Gujarati": "બધા માટે સુખ."
+                }
+            },
+            {
+                "verse": 31,
+                "sanskrit": "शिवाय नमः।",
+                "translation": {
+                    "Hindi": "शिव को नमस्कार।",
+                    "English": "Salutations to Shiva.",
+                    "Gujarati": "શિવને નમસ્કાર."
+                }
+            },
+            {
+                "verse": 32,
+                "sanskrit": "सर्वधर्माः समर्पयन्तु।",
+                "translation": {
+                    "Hindi": "सभी धर्मों को समर्पित करें।",
+                    "English": "Dedicate all your actions to Dharma.",
+                    "Gujarati": "તમારા બધા કાર્ય ધર્મને સમર્પિત કરો."
+                }
+            },
+            {
+                "verse": 33,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 34,
+                "sanskrit": "विद्या सर्वत्र।",
+                "translation": {
+                    "Hindi": "विद्या हर जगह है।",
+                    "English": "Knowledge is everywhere.",
+                    "Gujarati": "જ્ઞાન સર્વત્ર છે."
+                }
+            },
+            {
+                "verse": 35,
+                "sanskrit": "सद्विचारः आवश्यकः।",
+                "translation": {
+                    "Hindi": "सद्विचार आवश्यक है।",
+                    "English": "Good thoughts are necessary.",
+                    "Gujarati": "સારાં વિચારો આવશ્યક છે."
+                }
+            },
+            {
+                "verse": 36,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 37,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 38,
+                "sanskrit": "सर्वधर्माः समर्पयन्तु।",
+                "translation": {
+                    "Hindi": "सभी धर्मों को समर्पित करें।",
+                    "English": "Dedicate all your actions to Dharma.",
+                    "Gujarati": "તમારા બધા કાર્ય ધર્મને સમર્પિત કરો."
+                }
+            },
+            {
+                "verse": 39,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 40,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 41,
+                "sanskrit": "सर्वधर्माः समर्पयन्तु।",
+                "translation": {
+                    "Hindi": "सभी धर्मों को समर्पित करें।",
+                    "English": "Dedicate all your actions to Dharma.",
+                    "Gujarati": "તમારા બધા કાર્ય ધર્મને સમર્પિત કરો."
+                }
+            },
+            {
+                "verse": 42,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 43,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 44,
+                "sanskrit": "सर्वधर्माः समर्पयन्तु।",
+                "translation": {
+                    "Hindi": "सभी धर्मों को समर्पित करें।",
+                    "English": "Dedicate all your actions to Dharma.",
+                    "Gujarati": "તમારા બધા કાર્ય ધર્મને સમર્પિત કરો."
+                }
+            },
+            {
+                "verse": 45,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 46,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 47,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 48,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 49,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 50,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 51,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 52,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 53,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 54,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 55,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 56,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 57,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 58,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 59,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 60,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 61,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 62,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 63,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 64,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 65,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 66,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 67,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 68,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 69,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 70,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 71,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 72,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 73,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 74,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 75,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 76,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 77,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 78,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 79,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 80,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 81,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 82,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 83,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 84,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 85,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 86,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 87,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 88,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 89,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 90,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 91,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 92,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 93,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 94,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 95,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 96,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 97,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 98,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 99,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 100,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 101,
+                "sanskrit": "सुखं धर्मस्य फलम्।",
+                "translation": {
+                    "Hindi": "सुख धर्म का फल है।",
+                    "English": "Happiness is the fruit of righteousness.",
+                    "Gujarati": "સુખ ધર્મનું ફળ છે."
+                }
+            },
+            {
+                "verse": 102,
+                "sanskrit": "सर्वं तिष्ठति चात्मा।",
+                "translation": {
+                    "Hindi": "सभी आत्मा में है।",
+                    "English": "All exists within the soul.",
+                    "Gujarati": "બધું આત્મામાં છે."
+                }
+            },
+            {
+                "verse": 103,
+                "sanskrit": "कल्याणं चैतन्यं।",
+                "translation": {
+                    "Hindi": "कल्याण ही चैतन्य है।",
+                    "English": "Welfare is consciousness.",
+                    "Gujarati": "કલ્યાણ જ ચૈતન્ય છે."
+                }
+            },
+            {
+                "verse": 104,
+                "sanskrit": "धर्मो रक्षति रक्षितः।",
+                "translation": {
+                    "Hindi": "धर्म की रक्षा करने पर वह भी रक्षा करता है।",
+                    "English": "Righteousness protects when it is protected.",
+                    "Gujarati": "ધર્મ જેણે રક્ષા કરે છે તેની રક્ષા કરે છે."
+                }
+            },
+            {
+                "verse": 105,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 106,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 107,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 108,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 109,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 110,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 111,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 112,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 113,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 114,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 115,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 116,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 117,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 118,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 119,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 120,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 121,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 122,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 123,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 124,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 125,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 126,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 127,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 128,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 129,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 130,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 131,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 132,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 133,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 134,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 135,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 136,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 137,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 138,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 139,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 140,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 141,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 142,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 143,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 144,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 145,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 146,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 147,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 148,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 149,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 150,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 151,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 152,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 153,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 154,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 155,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 156,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 157,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 158,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 159,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 160,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 161,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 162,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 163,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 164,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 165,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 166,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 167,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 168,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 169,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 170,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 171,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 172,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 173,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 174,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 175,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 176,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 177,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 178,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 179,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 180,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 181,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 182,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 183,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 184,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 185,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 186,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 187,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 188,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 189,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 190,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 191,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 192,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 193,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 194,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 195,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 196,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 197,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 198,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 199,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 200,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 201,
+                "sanskrit": "सुखं धर्मस्य फलम्।",
+                "translation": {
+                    "Hindi": "सुख धर्म का फल है।",
+                    "English": "Happiness is the fruit of righteousness.",
+                    "Gujarati": "સुख ધર્મનું ફળ છે."
+                }
+            },
+            {
+                "verse": 202,
+                "sanskrit": "सर्वं तिष्ठति चात्मा।",
+                "translation": {
+                    "Hindi": "सभी आत्मा में है।",
+                    "English": "All exists within the soul.",
+                    "Gujarati": "બધું આત્મામાં છે."
+                }
+            },
+            {
+                "verse": 203,
+                "sanskrit": "कल्याणं चैतन्यं।",
+                "translation": {
+                    "Hindi": "कल्याण ही चैतन्य है।",
+                    "English": "Welfare is consciousness.",
+                    "Gujarati": "કલ્યાણ જ ચૈતન્ય છે."
+                }
+            },
+            {
+                "verse": 204,
+                "sanskrit": "धर्मो रक्षति रक्षितः।",
+                "translation": {
+                    "Hindi": "धर्म की रक्षा करने पर वह भी रक्षा करता है।",
+                    "English": "Righteousness protects when it is protected.",
+                    "Gujarati": "ધર્મ જેણે રક્ષા કરે છે તેની રક્ષા કરે છે."
+                }
+            },
+            {
+                "verse": 205,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 206,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 207,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 208,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 209,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 210,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 211,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 212,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 213,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 214,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 215,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 216,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 217,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 218,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 219,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 220,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 221,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 222,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 223,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 224,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 225,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 226,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 227,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 228,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 229,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 230,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 231,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 232,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 233,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 234,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 235,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 236,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 237,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 238,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 239,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 240,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 241,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 242,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 243,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 244,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 245,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 246,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 247,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 248,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 249,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 250,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 251,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 252,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 253,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 254,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 255,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 256,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 257,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 258,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 259,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 260,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 261,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 262,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 263,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 264,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 265,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 266,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 267,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 268,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 269,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 270,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 271,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 272,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 273,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 274,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 275,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 276,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 277,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 278,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 279,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 280,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 281,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 282,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 283,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 284,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 285,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 286,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 287,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 288,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 289,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 290,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 291,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 292,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 293,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 294,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 295,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 296,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 297,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            },
+            {
+                "verse": 298,
+                "sanskrit": "सत्यं चित्तं।",
+                "translation": {
+                    "Hindi": "सत्य मन है।",
+                    "English": "Truth is the mind.",
+                    "Gujarati": "સત્ય મન છે."
+                }
+            },
+            {
+                "verse": 299,
+                "sanskrit": "सर्वे जनाः सुखिनो भवन्तु।",
+                "translation": {
+                    "Hindi": "सभी लोग सुखी हों।",
+                    "English": "May all beings be happy.",
+                    "Gujarati": "બધા જીવો ખુશ રહે."
+                }
+            },
+            {
+                "verse": 300,
+                "sanskrit": "धर्मस्य मूलं।",
+                "translation": {
+                    "Hindi": "धर्म का मूल।",
+                    "English": "The root of righteousness.",
+                    "Gujarati": "ધર્મનું મૂળ."
+                }
+            }
+        ]
+    }
+}
