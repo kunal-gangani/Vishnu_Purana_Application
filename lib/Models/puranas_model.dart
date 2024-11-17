@@ -46,7 +46,7 @@ class VishnuPurana {
 class Shloka {
   int verse;
   String sanskrit;
-  Title translation; // This will hold translations in all languages
+  Title translation;
 
   Shloka({
     required this.verse,

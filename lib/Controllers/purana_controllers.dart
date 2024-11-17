@@ -7,31 +7,36 @@ class PuranaControllers extends ChangeNotifier {
   List<Shloka> allShlokas = [];
   List<Shloka> filteredShlokas = [];
   String selectedLanguage = 'Hindi';
-  Map<int, bool> showTranslations =
-      {}; // Track visibility of translations per shloka
+  Map<int, bool> showTranslations = {};
+  late VishnuPurana vishnuPurana;
 
+  // Decode JSON Data
   Future<void> jsonEncode() async {
     String jsonPath = "assets/Json/main.json";
     String jsonData = await rootBundle.loadString(jsonPath);
     Map<String, dynamic> jsonList = jsonDecode(jsonData);
     PuranasModel allData = PuranasModel.fromJson(json: jsonList);
 
-    allShlokas = allData.vishnuPurana.shlokas;
-    filteredShlokas = List.from(allShlokas); // Initialize filteredShlokas
+    vishnuPurana = allData.vishnuPurana;
+    allShlokas = vishnuPurana.shlokas ?? [];
+    filteredShlokas = List.from(allShlokas);
     notifyListeners();
   }
 
+  // Toggle the visibility of translation for a particular Shloka
+  void toggleTranslationVisibility(int index) {
+    showTranslations[index] = !(showTranslations[index] ?? false);
+    notifyListeners();
+  }
+
+  // Change the Shloka Language
   void changeLanguage(String language) {
     selectedLanguage = language;
     filterShlokas();
     notifyListeners();
   }
 
-  void toggleTranslationVisibility(int index) {
-    showTranslations[index] = !(showTranslations[index] ?? false);
-    notifyListeners();
-  }
-
+  // Get the Shloka Translation in selected Language
   String getTranslation(int index) {
     final shloka = filteredShlokas[index];
     switch (selectedLanguage) {
@@ -46,6 +51,7 @@ class PuranaControllers extends ChangeNotifier {
     }
   }
 
+  // Get All Translations in Remaining Languages
   List<String> getOtherTranslations(int index) {
     final shloka = filteredShlokas[index];
     return [
@@ -59,12 +65,13 @@ class PuranaControllers extends ChangeNotifier {
     return showTranslations[index] ?? false;
   }
 
+  // Filter the Shlokas
   void filterShlokas() {
     filteredShlokas = allShlokas;
     notifyListeners();
   }
 
-  //Search for a particular by verse number
+  // Search for a particular Shloka by verse number
   void searchShloka(String verseNumber) {
     if (verseNumber.isEmpty) {
       filteredShlokas = allShlokas;
@@ -76,7 +83,7 @@ class PuranaControllers extends ChangeNotifier {
     notifyListeners();
   }
 
-  //To Refresh the page after searching a verse
+  // To Refresh the page after searching a verse
   void refreshShlokas() {
     filteredShlokas = List.from(allShlokas);
     notifyListeners();

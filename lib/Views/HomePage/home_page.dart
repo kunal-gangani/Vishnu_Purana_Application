@@ -33,9 +33,7 @@ class HomePage extends StatelessWidget {
           ),
           actions: [
             Padding(
-              padding: const EdgeInsets.only(
-                right: 16.0,
-              ),
+              padding: const EdgeInsets.only(right: 16.0),
               child: DropdownButtonHideUnderline(
                 child: DropdownButton<String>(
                   value: value.selectedLanguage,
@@ -43,18 +41,20 @@ class HomePage extends StatelessWidget {
                     'Hindi',
                     'English',
                     'Gujarati',
-                  ].map<DropdownMenuItem<String>>((String lang) {
-                    return DropdownMenuItem<String>(
-                      value: lang,
-                      child: Text(
-                        lang,
-                        style: GoogleFonts.hind(
-                          color: Colors.black87,
-                          fontWeight: FontWeight.bold,
+                  ].map<DropdownMenuItem<String>>(
+                    (String lang) {
+                      return DropdownMenuItem<String>(
+                        value: lang,
+                        child: Text(
+                          lang,
+                          style: GoogleFonts.hind(
+                            color: Colors.black87,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
-                      ),
-                    );
-                  }).toList(),
+                      );
+                    },
+                  ).toList(),
                   onChanged: (String? newValue) {
                     if (newValue != null) {
                       value.changeLanguage(newValue);
@@ -83,12 +83,16 @@ class HomePage extends StatelessWidget {
                   child: CircularProgressIndicator(),
                 )
               : Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 16.0,
+                  ),
                   child: Column(
                     children: [
                       // Search bar for verse number
                       Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 16.0),
+                        padding: const EdgeInsets.symmetric(
+                          vertical: 16.0,
+                        ),
                         child: Row(
                           children: [
                             Expanded(

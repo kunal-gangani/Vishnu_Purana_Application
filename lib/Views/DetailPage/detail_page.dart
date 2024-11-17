@@ -2,9 +2,13 @@ import 'package:flexify/flexify.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter/services.dart'; // Required for clipboard
-import 'package:share_plus/share_plus.dart'; // Required for sharing
+import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
+import 'package:share_plus/share_plus.dart';
+import 'package:vishnu_purana_application/Controllers/purana_controllers.dart';
+import 'package:vishnu_purana_application/Controllers/theme_controller.dart';
 import 'package:vishnu_purana_application/Models/puranas_model.dart';
+import 'package:vishnu_purana_application/Views/DetailPage/Components/translation_section.dart';
 
 class DetailPage extends StatelessWidget {
   final Shloka shloka;
@@ -32,11 +36,26 @@ class DetailPage extends StatelessWidget {
             color: Colors.white,
           ),
         ),
+        actions: [
+          IconButton(
+            onPressed: () {
+              Provider.of<ThemeController>(context, listen: false)
+                  .toggleTheme();
+            },
+            icon: Icon(
+              Provider.of<ThemeController>(context).isDarkMode
+                  ? Icons.dark_mode
+                  : Icons.light_mode,
+            ),
+          )
+        ],
         centerTitle: true,
       ),
       body: Center(
         child: Padding(
-          padding: EdgeInsets.all(16.0.sp),
+          padding: EdgeInsets.all(
+            16.0.sp,
+          ),
           child: Card(
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(20),
@@ -58,13 +77,18 @@ class DetailPage extends StatelessWidget {
                       color: Colors.deepOrange.shade700,
                     ),
                   ),
-                  const Divider(color: Colors.deepOrange, thickness: 2),
+                  const Divider(
+                    color: Colors.deepOrange,
+                    thickness: 2,
+                  ),
                   SizedBox(
                     height: 10.h,
                   ),
                   // Sanskrit verse
                   Container(
-                    padding: EdgeInsets.all(12.sp),
+                    padding: EdgeInsets.all(
+                      12.sp,
+                    ),
                     decoration: BoxDecoration(
                       color: Colors.orange.shade100,
                       borderRadius: BorderRadius.circular(12),
@@ -87,7 +111,7 @@ class DetailPage extends StatelessWidget {
                     height: 20.h,
                   ),
                   // Hindi Translation
-                  _buildTranslationSection(
+                  translationSection(
                     context,
                     title: 'Translation (Hindi):',
                     translation: shloka.translation.hindi,
@@ -96,7 +120,7 @@ class DetailPage extends StatelessWidget {
                     height: 20.h,
                   ),
                   // English Translation
-                  _buildTranslationSection(
+                  translationSection(
                     context,
                     title: 'Translation (English):',
                     translation: shloka.translation.english,
@@ -105,7 +129,7 @@ class DetailPage extends StatelessWidget {
                     height: 20.h,
                   ),
                   // Gujarati Translation
-                  _buildTranslationSection(
+                  translationSection(
                     context,
                     title: 'Translation (Gujarati):',
                     translation: shloka.translation.gujarati,
@@ -116,79 +140,46 @@ class DetailPage extends StatelessWidget {
           ),
         ),
       ),
-      bottomNavigationBar: BottomNavigationBar(
-        items: [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.copy),
-            label: 'Copy',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.share),
-            label: 'Share',
-          ),
-        ],
-        onTap: (index) {
-          if (index == 0) {
-            // Copy verse to clipboard
-            Clipboard.setData(ClipboardData(text: shloka.sanskrit));
-            ScaffoldMessenger.of(context).showSnackBar(
-              const SnackBar(
-                content: Text(
-                  'Verse copied to clipboard!',
-                ),
+      bottomNavigationBar:
+          Consumer<PuranaControllers>(builder: (context, value, _) {
+        return BottomNavigationBar(
+          items: const [
+            BottomNavigationBarItem(
+              icon: Icon(
+                Icons.copy,
               ),
-            );
-          } else if (index == 1) {
-            // Share verse
-            Share.share(
-              'Check out this verse: ${shloka.sanskrit}',
-            );
-          }
-        },
-      ),
-    );
-  }
-
-  Widget _buildTranslationSection(
-    BuildContext context, {
-    required String title,
-    required String translation,
-  }) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text(
-          title,
-          style: GoogleFonts.notoSerif(
-            fontSize: 22.sp,
-            fontWeight: FontWeight.bold,
-            color: Colors.deepOrange.shade700,
-          ),
-        ),
-        SizedBox(
-          height: 10.h,
-        ),
-        Container(
-          padding: EdgeInsets.all(12.sp),
-          decoration: BoxDecoration(
-            color: Colors.orange.shade50,
-            borderRadius: BorderRadius.circular(12),
-            border: Border.all(
-              color: Colors.deepOrange.shade200,
-              width: 1,
+              label: 'Copy',
             ),
-          ),
-          child: Text(
-            translation,
-            style: GoogleFonts.notoSerif(
-              fontSize: 18.sp,
-              color: Colors.brown.shade900,
-              fontWeight: FontWeight.w600,
+            BottomNavigationBarItem(
+              icon: Icon(
+                Icons.share,
+              ),
+              label: 'Share',
             ),
-            textAlign: TextAlign.justify,
-          ),
-        ),
-      ],
+          ],
+          onTap: (index) {
+            if (index == 0) {
+              // Copy verse to clipboard
+              Clipboard.setData(ClipboardData(text: shloka.sanskrit));
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text(
+                    'Verse copied to clipboard!',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                  backgroundColor: Colors.green,
+                  duration: Duration(seconds: 2),
+                ),
+              );
+            } else if (index == 1) {
+              // Share verse
+              Share.share(
+                'Check out this verse: ${shloka.sanskrit}',
+              );
+            }
+          },
+        );
+      }),
     );
   }
 }
