@@ -13,6 +13,7 @@ The **Vishnu Purana** is an ancient text that revolves around Lord Vishnu and hi
 - **Share and Copy**: Share verses via social media or copy them to your clipboard for personal use.
 - **User-Friendly Interface**: An intuitive design that enhances the reading experience.
 - **Offline Access**: Read verses and explanations without an internet connection once downloaded.
+- **Theme Change**: User can change the theme(Light and Dark) to read the verse properly.
 
 ## Screenshots
 
